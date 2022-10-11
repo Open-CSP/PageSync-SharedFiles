@@ -1,0 +1,1 @@
+This is the Extension category. Add PageSync Share files related to specific extensions.

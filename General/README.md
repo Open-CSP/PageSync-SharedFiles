@@ -1,0 +1,1 @@
+This is the General category. Add PageSync Share files not specific to e.g. extensions or other categories.
