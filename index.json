@@ -1,16 +1,20 @@
 {
-  "PageSync Share File Index": [
-    {
-      "Title": "FlexForm Multi files upload tutorial",
-      "Description": "This is part of the tutorial for the FlexForm Multiple File upload.<br>It will add a page called FlexForm Fileupload tutorial with the code used in the video : <a href=\"https://wikibase-solutions.com/developer-logs/flexform-multiple-file-upload\">https://wikibase-solutions.com/developer-logs/flexform-multiple-file-upload</a>. It has been written for FlexForm 1.35 and for MediaWiki 1.35x.",
-      "Requirements": {
-        "FlexForm": "v1.35+",
-        "MediaWiki": "v1.35x",
-        "PageSync": "v2.1.0"
-      },
-      "Category": "Extensions",
-      "Subject": "FlexForm",
-      "PSShareFile": "PageSync_01-10-2022-19-57-10_2-1-0.zip"
+  "PageSync Share File Index": {
+    "Extensions": {
+      "FlexForm": [
+        {
+          "Title": "FlexForm Multi files upload tutorial",
+          "Description": "This is part of the tutorial for the FlexForm Multiple File upload.<br>It will add a page called FlexForm Fileupload tutorial with the code used in the video : <a href=\"https://wikibase-solutions.com/developer-logs/flexform-multiple-file-upload\">https://wikibase-solutions.com/developer-logs/flexform-multiple-file-upload</a>. It has been written for FlexForm 1.35 and for MediaWiki 1.35x.",
+          "Requirements": {
+            "FlexForm": "v1.35+",
+            "MediaWiki": "v1.35x",
+            "PageSync": "v2.1.0"
+          },
+          "Category": "Extensions",
+          "Subject": "FlexForm",
+          "PSShareFile": "PageSync_01-10-2022-19-57-10_2-1-0.zip"
+        }
+      ]
     }
-  ]
+  }
 }
