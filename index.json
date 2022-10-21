@@ -15,6 +15,22 @@
           "PSShareFile": "PageSync_01-10-2022-19-57-10_2-1-0.zip"
         }
       ]
+    },
+    "Open-CSP": {
+      "Installation": [
+        {
+          "Title": "Open CSP default content on installation",
+          "Description": "When you install Open CSP. This PageSync package is the default content that gets installed",
+          "Requirements": {
+            "Widgets": "v1.35x",
+            "MediaWiki": "v1.35x",
+            "PageSync": "v2.1.0"
+          },
+          "Category": "Open-CSP",
+          "Subject": "Installation",
+          "PSShareFile": "PageSync_21-10-2022-12-20-53_2-1-0.zip"
+        }
+      ]
     }
   }
 }
