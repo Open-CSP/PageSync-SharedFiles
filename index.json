@@ -24,7 +24,8 @@
           "Requirements": {
             "Widgets": "v1.35x",
             "MediaWiki": "v1.35x",
-            "PageSync": "v2.1.0"
+            "PageSync": "v2.1.0",
+            "Open CSP": ""
           },
           "Category": "Open-CSP",
           "Subject": "Installation",
