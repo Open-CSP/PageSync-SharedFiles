@@ -13,7 +13,20 @@
           "Category": "Extensions",
           "Subject": "FlexForm",
           "PSShareFile": "PageSync_01-10-2022-19-57-10_2-1-0.zip"
+        },
+        {
+          "Title": "FlexForm Screenshot Example",
+          "Description": "This is an example for FlexForm Screenshot uploads. Documentation and explaining this functionality can be found here : <a href=\"https://www.open-csp.org/DevOps:Doc/FlexForm/1.0/input/file#HTMLtoImage\">HTML to image</a> on the FlexForm Documentation page. In short it allows you to make a screenshot of the current page, or a section of the current page, and upload it into the wiki. This PageSync Share file will create a page in your wiki called FlexForm/Canvas where an example can be found of using the Screenshot feature. You are free to use these PageSync shared documents and files. We are however not responsible for any mishap it might cause when you submit them to your MediaWiki instalment.. It has been written for FlexForm 2.1.0 and for MediaWiki 1.35x.",
+          "Requirements": {
+            "FlexForm": "v2.1+",
+            "MediaWiki": "v1.35x",
+            "PageSync": "v2.1.4"
+          },
+          "Category": "Extensions",
+          "Subject": "FlexForm",
+          "PSShareFile": "PageSync_09-02-2023-21-22-38_2-1-4.zip"
         }
+
       ]
     },
     "Companies": {
