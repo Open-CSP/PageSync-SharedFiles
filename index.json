@@ -30,19 +30,6 @@
       ]
     },
     "Companies": {
-      "Wikibase-Solutions": [
-        {
-          "Title": "Testing Content Aware Slot for PageSync",
-          "Description": "Testing Content Aware Slot for PageSync",
-          "Requirements": {
-            "MediaWiki": "v1.35x",
-            "PageSync": "v2.1.4"
-          },
-          "Category": "Companies",
-          "Subject": "Wikibase-Solutions",
-          "PSShareFile": "PageSync_24-01-2023-10-38-45_2-1-4.zip"
-        }
-      ]
     },
     "Open-CSP": {
       "Installation": [
