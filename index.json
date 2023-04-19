@@ -6,7 +6,7 @@
           "Title": "FlexForm EMWCon 2023 demo files",
           "Description": "These are the demos shown at the EMWCon 2023 in regards to what's new in FlexForm 2.1. These examples are based on Open CSP, meaning they expect to have Chameleon installed and Semantic MediaWiki. FlexForm works fine without Chameleon and Semantic MediaWiki, but the appearance of the forms use Bootstrap classes in these examples and for the Upload Files example we also set Semantic Properties through templates.",
           "Requirements": {
-            "FlexForm": "v2.1.x",
+            "FlexForm": "v2.1.6+",
             "MediaWiki": "v1.35x",
             "PageSync": "v2.1.4",
             "SemanticMediaWiki": "v3.2+"
