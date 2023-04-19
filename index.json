@@ -3,6 +3,19 @@
     "Extensions": {
       "FlexForm": [
         {
+          "Title": "FlexForm EMWCon 2023 demo files",
+          "Description": "These are the demos shown at the EMWCon 2023 in regards to what's new in FlexForm 2.1. These examples are based on Open CSP, meaning they expect to have Chameleon installed and Semantic MediaWiki. FlexForm works fine without Chameleon and Semantic MediaWiki, but the appearance of the forms use Bootstrap classes in these examples and for the Upload Files example we also set Semantic Properties through templates.",
+          "Requirements": {
+            "FlexForm": "v1.3+",
+            "MediaWiki": "v1.35x",
+            "PageSync": "v2.1.4",
+            "SemanticMediaWiki": "v3.2+"
+          },
+          "Category": "Extensions",
+          "Subject": "FlexForm",
+          "PSShareFile": "PageSync_19-04-2023-18-36-27_2-1-4.zip"
+        },
+        {
           "Title": "FlexForm Multi files upload tutorial",
           "Description": "This is part of the tutorial for the FlexForm Multiple File upload.<br>It will add a page called FlexForm Fileupload tutorial with the code used in the video : <a href=\"https://wikibase-solutions.com/developer-logs/flexform-multiple-file-upload\">https://wikibase-solutions.com/developer-logs/flexform-multiple-file-upload</a>. It has been written for FlexForm 1.35 and for MediaWiki 1.35x.",
           "Requirements": {
