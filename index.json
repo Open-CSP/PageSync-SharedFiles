@@ -45,19 +45,19 @@
     "Companies": {
     },
     "Open-CSP": {
-      "Installation": [
+      "Additional": [
         {
-          "Title": "Open CSP default content on installation",
-          "Description": "When you install Open CSP. This PageSync package is the default content that gets installed",
+          "Title": "Open CSP 2.0 additional content",
+          "Description": "Install this PageSync package to get your started with Open CSP 2.0.",
           "Requirements": {
-            "Widgets": "v1.35x",
-            "MediaWiki": "v1.35x",
-            "PageSync": "v2.1.0",
-            "Open CSP": ""
+            "Widgets": "v1.4.x",
+            "MediaWiki": "v1.39.x",
+            "PageSync": "v2.x",
+            "Open CSP": "2.x"
           },
           "Category": "Open-CSP",
-          "Subject": "Installation",
-          "PSShareFile": "PageSync_21-10-2022-12-20-53_2-1-0.zip"
+          "Subject": "Additional",
+          "PSShareFile": "PageSync_01-11-2023-20-33-16_2-6-3.zip"
         }
       ]
     }
