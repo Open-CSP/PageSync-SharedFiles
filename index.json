@@ -21,7 +21,8 @@
           "Requirements": {
             "FlexForm": "v1.35+",
             "MediaWiki": "v1.35x",
-            "PageSync": "v2.1.0"
+            "PageSync": "v2.1.0",
+            "ArrayFunctions": "*"
           },
           "Category": "Extensions",
           "Subject": "FlexForm",
