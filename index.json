@@ -45,7 +45,7 @@
       "Wikibase-Solutions": [
         {
           "Title": "Tutorial: Excel Data into Wiki",
-          "Description": "Tutorial for developer log \"The Fastest Way to Get Excel Data into Your Wiki\" https://wikibase-solutions.com/developer-logs/the-fastest-way-to-get-excel-data-into-your-wiki",
+          "Description": "Tutorial for developer log The Fastest Way to Get Excel Data into Your Wiki https://wikibase-solutions.com/developer-logs/the-fastest-way-to-get-excel-data-into-your-wiki",
           "Requirements": {
             "MediaWiki": "v1.39.x",
             "PageSync": "v2.x",
