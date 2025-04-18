@@ -50,7 +50,7 @@
             "MediaWiki": "v1.39.x",
             "PageSync": "v2.x",
             "FlexForm": "2.4+",
-            "ArrayFunctions": "*"
+            "ArrayFunctions": ""
           },
           "Category": "Companies",
           "Subject": "Wikibase-Solutions",
