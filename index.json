@@ -61,17 +61,17 @@
     "Open-CSP": {
       "Additional": [
         {
-          "Title": "Open CSP 2.0 additional content",
-          "Description": "Install this PageSync package to get your started with Open CSP 2.0.",
+          "Title": "Open CSP 3.0 additional content",
+          "Description": "Install this PageSync package to get your started with Open CSP 3.0.",
           "Requirements": {
-            "Widgets": "v1.4.x",
-            "MediaWiki": "v1.39.x",
+            "Widgets": "v1.6.x",
+            "MediaWiki": "v1.43.x",
             "PageSync": "v2.x",
-            "CSPResources": "2.0.x"
+            "CSPResources": "3.0.x"
           },
           "Category": "Open-CSP",
           "Subject": "Additional",
-          "PSShareFile": "PageSync_02-11-2023-19-09-04_2-6-4.zip"
+          "PSShareFile": "PageSync_06-03-2026-10-59-02_2-6-9.zip"
         }
       ]
     }
